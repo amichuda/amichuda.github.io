@@ -4,8 +4,7 @@
     counter-increment: page;
     font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
     white-space: pre;
-    color: red;
-    font-size: xx-small;
+    color: grey;
     @top-center {
         content: string(chapter);
     }
