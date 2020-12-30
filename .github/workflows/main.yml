@@ -26,4 +26,6 @@ jobs:
         run: cd .. && ls    
       - name: second check
         run: pwd
+      - name: another check
+        run: echo $GITHUB_WORKSPACE
         
