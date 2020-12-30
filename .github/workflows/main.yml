@@ -24,4 +24,6 @@ jobs:
           path: amichuda-website-mkdocs
       - name : Check Filesystem
         run: cd .. && ls    
+      - name: second check
+        run: pwd
         
