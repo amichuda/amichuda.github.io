@@ -22,10 +22,7 @@ jobs:
           repository: amichuda/amichuda-website-mkdocs
           token: ${{ secrets.ACCESS_TOKEN }}
           path: amichuda-website-mkdocs
-      - name : Check Filesystem
-        run: cd .. && ls    
-      - name: second check
-        run: pwd
-      - name: another check
-        run: echo $GITHUB_WORKSPACE
-        
+      - name : check cd to each
+        run: cd amichuda-website-mkdocs && pwd
+      - name: check cd to other
+        run: cd amichuda.github.io && pwd
