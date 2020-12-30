@@ -1,0 +1,15 @@
+# This is a basic workflow to help you get started with Actions
+
+name: mkdocs-deploy
+on:
+  repository_dispatch:
+    types: [mkdocs-deploy]
+  workflow_dispatch:
+jobs:
+  dispatch_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.client_payload.ref }}
+      - run: echo ${{ github.event.client_payload.sha }}
