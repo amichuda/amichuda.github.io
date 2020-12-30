@@ -21,4 +21,5 @@ jobs:
           repository: amichuda/amichuda-website-mkdocs
           token: ${{ secrets.ACCESS_TOKEN }}
       - name : Check Filesystem
-        run: ls    
+        run: cd .. && ls    
+        
