@@ -9,7 +9,14 @@ jobs:
   dispatch_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout github.io
+        uses: actions/checkout@v2
         with:
           ref: ${{ github.event.client_payload.ref }}
-      - run: echo ${{ github.event.client_payload.sha }}
+      - name: Check Trigger
+        run: echo ${{ github.event.client_payload.sha }}
+      - name: Checkout mkdocs website
+        uses: actions/checkout@v2
+        with: 
+          repository: amichuda/amichuda-website-mkdocs
+          token: ${{ secrets.ACCESS_TOKEN }}
