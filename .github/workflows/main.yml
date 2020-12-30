@@ -26,3 +26,8 @@ jobs:
         run: cd amichuda-website-mkdocs && pwd
       - name: check cd to other
         run: cd amichuda.github.io && pwd
+      - name: deploy with docker file
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env: 
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          CONFIG_FILE: amichuda-website-mkdocs/mkdocs.yml
