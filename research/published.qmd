@@ -1,0 +1,73 @@
+---
+title: Published Works
+description: Work published in peer-reviewed journals
+---
+
+### Economic Impacts of the COVID-19 Lockdown in a Remittance‐Dependent Region
+
+*With Anubhab Gupta, Heng Zhu, Miki Khanh Doan, and Binoy Majumder*
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+The economic impacts of COVID‐19 lockdowns on poor and vulnerable households living in rural areas of developing countries are not well understood due to a lack of detailed micro‐survey data at the household level. Utilizing weekly financial transaction data collected from households residing in a rural region of India, we estimate the impacts of India's COVID‐19 lockdown on household income, food security, welfare, and access to local loan markets. A large portion of households living in our study region is reliant on remittances from migrants to sustain their livelihoods. Our analysis reveals that in the month immediately after India's lockdown announcement, weekly household local income fell by INR 1,022 (US$ 13.5), an 88% drop compared to the long‐term average with another 63% reduction in remittance. In response to the massive loss in earnings, households substantially reduced meal portions and consumed fewer food items. Impacts were heterogeneous; households in lower income quantiles lost a higher percentage of their income and expenditures, but government food aid slightly mitigated the negative impacts. We also find an increase in the effective interest rate of local borrowing in cash and a higher demand for in‐kind loans, which are likely to have an adverse effect on households who rely on such services. The results from this paper have immediate relevance to policymakers considering additional lockdowns as the COVID‐19 pandemic resurges around the globe and to governments thinking about responses to future pandemics that may occur.
+:::
+
+[PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178){.btn .btn-outline-primary .btn role="button"}
+
+### Fitting and interpreting correlated random-coefficient models using Stata.
+
+*With Oscar Barriga Cabanillas, Jeffrey D. Michler and Emilia Tjernstrom*
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+In this article, we introduce the community-contributed command `randcoef`, which fits the correlated random-effects and correlated random-coefficient models discussed in Suri (2011, Econometrica 79: 159–209). While this approach has been around for a decade, its use has been limited by the computationally intensive nature of the estimation procedure that relies on the optimal minimum distance estimator. `randcoef` can accommodate up to five rounds of panel data and offers several options, including alternative weight matrices for estimation and inclusion of additional endogenous regressors. We also present postestimation analysis using sample data to facilitate understanding and interpretation of results.
+:::
+
+[PDF](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109){.btn .btn-outline-primary .btn role="button"}
+
+### The economic viability of suppressive crop rotations for the control of verticillium wilt in organic strawberry production.
+
+*With Rachael Goodhue, Karen Klonsky, Graeme Baird, Lucinda Toyama, Margarita Zavatta, and Carol Shennan*
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+Soil-borne diseases and nitrogen availability are important limits on organic strawberry production. A trial using suppressive crop rotations to combat Verticillium wilt was conducted to see its effects on strawberry yields and net returns using a split-split-plot design. An ANOVA analysis was run to understand determinants of net returns. Results show that the suppression of wilt through the planting of non-host crops such as broccoli before the planting of strawberries can have significant effects on yield and net returns, and that suppressive crop rotations are potentially commercially viable.
+:::
+
+[PDF](https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA:k9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp){.btn .btn-outline-primary .btn role="button"}
+
+### Predicting net returns of organic and conventional strawberry following soil disinfestation with steam or steam plus additives
+
+*With Rachael Goodhue, Mark Hoffmann and Steve A. Fennimore*
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+Pre-plant methods for managing soil-borne pests and diseases are an important priority for
+many agricultural production systems. This study investigates   whether the application of steam
+is an economically sustainable pre-plant soil disinfestation    technique for organic and
+conventional strawberry production in California’s Central  Coast region. We analyze net
+returns ha -1 from field trials using steam and steam +     mustard seed meal (MSM) as pre-plant
+soil disinfestation treatments. ANOVA tests identify    statistically significant differences in net
+revenues by treatment and trial. Multivariate regressions   estimate the magnitude of these
+effects. Predictive polynomial models identify relationships    between net returns ha -1 and two
+treatment characteristics: maximum temperature (⁰ C) and time   at ≥ 60⁰ C (minutes). For
+organic production, net returns ha -1 are statistically     similar for the steam and steam + MSM
+treatments. For conventional production, the steam + MSM    treatment has significantly higher
+net returns ha -1 than the steam treatment. Polynomial models   outperform the sample mean for
+prediction of net returns ha -1 except for the steam + MSM  treatment in conventional
+production. Results from two of three organic models suggest    that maximum soil temperatures
+of 62-63⁰ C achieved for 41-44 minutes maximizes net returns    ha -1 and may be a basis for
+further experiments.
+:::
+
+[PDF](https://www.mdpi.com/2073-4395/11/1/149){.btn .btn-outline-primary .btn role="button"}
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+# Teaching
+
+## AEM6850: Empirical Methods for Applied Economists
+
+The course introduces students to basic practices and tools that will enhance your ability to conduct empirical research and analysis in microeconomics in a data-rich world. By the end of the course, students will be proficient in various data management, visualization and quantitative techniques necessary to efficiently conduct independent research. The course format is “hands-on” and students will conduct most of their work on their personal computers using python and VSCode.
+
+- [Syllabus](https://github.com/amichuda/aem6850-modules#readme)
+- [Lectures](https://github.com/amichuda/aem6850-modules)
+
+## ARE 106: Econometric Theory and Applications
+
+This course focused on teaching the basics of Econometrics, starting with a rigorous derivation of OLS and the Gauss-Markov Theorem, and then discussing causation and threats to identification. The course was taught with practicality in mind, and so students learned a programming language which could help them in whatever career direction they decided to go: python. Homework assignments were done in Jupyter notebooks, which included both code and derivation. The course was meant to teach both econometrics as well as more efficient workflows and data management.
+
+- [Syllabus](syllabus.html)
+- [Homework Assignments and Lectures in Python](https://github.com/amichuda/are106-python)

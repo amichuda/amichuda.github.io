@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  body-header: | 
+    **Download my CV** [**here**](cv/cv.pdf "download" ){target="_blank"}
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2023, Aleksandr Michuda" 
+    right:
+      - icon: twitter
+        href: https://twitter.com/econaleks
+      - icon: github
+        href: https://github.com/amichuda
+      - icon: linkedin
+        href: https://www.linkedin.com/in/aleksandr-michuda-3a839b149/
+      - icon: envelope
+        href: mailto:am2497@cornell.edu
+  google-analytics: "G-5860F6QGKQ"
+  title: "Aleksandr Michuda"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: CV
+        file: cv/cv.md
+      - text: Research 
+        menu: 
+          - research/published.qmd
+          - research/working-papers.qmd
+          - research/works-in-progress.qmd
+          - research/chapters-other.qmd
+      - text: Transparency and Reproducibility
+        file: trans_rep.qmd
+      - text: Teaching
+        file: teaching/teaching.qmd
+      - text: Software
+        file: software.qmd
+
+format:
+  html: 
+    theme: yeti
+    toc: true
+
+
+
+

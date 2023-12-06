@@ -1,0 +1,145 @@
+---
+title: "Aleksandr Michuda"
+about:
+    id: socials-heading-hack
+    template: jolla
+    image: images/jmp.jpeg
+    links:
+        - icon: twitter
+          text: twitter
+          href: https://twitter.com/econaleks
+        - icon: github
+          text: Github
+          href: https://github.com/amichuda
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/aleksandr-michuda-3a839b149/
+        - icon: envelope
+          text: "Email Me!"
+          href: mailto:am2497@cornell.edu
+---
+
+
+:::{#socials-heading-hack}
+
+:::
+I am an Assistant Research Professor at Cornell University's [Center for Data Science for Enterprise and Society](https://datasciencecenter.cornell.edu/).
+
+My interests include development economics, transparency in social science and using machine learning to solve problems in development.
+
+My research agenda encompasses two often interrelated topics: the first is using data science methods to bridge data gaps and construct novel datasets, and the second is applying these methods to solve problems in developing countries, especially in the context of the labor market. I am passionate about studying the effects of new technologies in developing countries and how they change household decision-making. 
+
+# Research
+|              | 
+|:------------ | 
+| [**Published Works**](research/published.qmd) |
+|[**Working Papers**](research/working-papers.qmd)|
+|[**Works in Progress**](research/works-in-progress.qmd)|
+|[**Book Chapters and Other Publications**](research/chapters-other.qmd)|
+    
+
+
+# Appointments
+
+|              |                              |                                                                        |
+|:------------ | ----------------------------:| ----------------------------------------------------------------------:|
+| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
+                                            
+
+
+# Education
+|      |                                               |                                        |
+| ---  | :-----------------------------------------------:| :----                                  |
+| 2021 | Agricultural and Resource Economics, UC Davis |   PhD                                  | 
+| 2014 |                 Economics CUNY Hunter College | BA/MA                                  | 
+| 2014 |                Philosophy CUNY Hunter College |    BA                                  | 
+
+
+
+# Editorships
+
+|      |                                                 |                                 |
+| ---- | ----------------------------------------------- | ------------------------------- |
+| 2023 | Special Issue Guest Editor                      | Harvard Data Science Review 5.3 |
+|      | *Reinforcing Reproducibility And Replicability* |                                 |
+
+# Peer Review
+
+*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*
+
+
+# Teaching
+
+|             |                                          |            |                    |
+| ----------- | ---------------------------------------- | ---------- | ------------------ |
+| Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
+| Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |
+| Fall 2018   | Microeconomics                           | TA         | UC Davis           |
+
+# Service
+
+|                                          |                     |
+|                    --------------------- | ------------------- |
+|                    Summer 2023 - Present | GAIN Mentor         |
+|                    Fall 2022 - Present   | Mentor for STAAARS+ |
+|                    Fall 2017 - Present   | BITSS Catalyst Grant |
+|                    2017                  | Graduate Student Association President |
+
+
+# Languages and Skills
+
+English: Fluent 
+
+Russian: Fluent
+
+Ukrainian: Conversational
+
+# Technical Skills
+
+Python, R, Stata, GitHub, Bash, GAMS
+
+# Past Experience
+
+|                                |                        |                       |                                                                   |
+| ------------------------------ | ---------------------- | --------------------- | ----------------------------------------------------------------- |
+| July 2023 - August 2023        | Breakthrough Tech AI   | Faculty Lead Mentor   | Summer 2024 - Machine Learning Foundations                        |
+| April 2023 - Present           | World Bank Corporation | Short-Term Consultant | Using Data Fusion to Improve Human Capital Indicators             |
+| January 2020 - July 2022       | UC Davis               | Consultant            | MINIMOD - Optimal Nutritional Interventions across Space and Time |
+| September 2019 - December 2019 | Uber Inc.              | Data Science Intern   | Pricing and Demand                                                |
+| July 2016 - September 2019     | UC Davis               | Research Assistant    | Disease Suppressive Crop Rotations                                |
+
+# Conferences/Presentations
+
+|                  |                                                                                                            |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| NEUDC 2022       | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
+| PACDEV 2022      | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
+| NEUDC 2021       | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
+| BITSS RT2 2020   | Dynamic Documents with Jupyter Notebooks                                                                   |
+| AAEA 2019        | Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production                       |
+| AAEA 2018        | Political Contributions and the Case of South African Land Reform                                          |
+| AAEA 2017        | The Economic Viability of Suppressive Crop Rotations in Organic Strawberry Production                      |
+|                  | Empirically Estimating the Impact of Weather on Agriculture                                                |
+| EEA 2014         | The Russian Mir and Agrarian Transition                                                                    |
+| CUNY's UGRC 2013 | Large Frontiers and Coercion: An Economic Perspective                                                      |
+
+
+# Scholarships and Awards
+
+\small
+
+|                         |                                                                                                                            |
+| :---------------------- | -------------------------------------------------------------------------------------------------------------------------: |
+| Summer 2023             |                                                                                                Azure Cloud Computing Grant |
+|                         |                                   H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
+| Summer 2022             |                                                                                                            NSF OSP: 142678 |
+|                         |                                  Conference on Reproducibility and Replicability in Economics and Social Sciences (CRRESS) |
+| Summer 2022             |                                                                                               Dyson AEP Faculty Seed Grant |
+|                         |                                                                    The Surname-Ethnicity Connection: A Validation Exercise |
+| Spring 2022             |                                                                                               Dyson AEP Faculty Seed Grant |
+|                         | Climate induced soil salinity impacts on agricultural productivity and livelihood diversification in the Sundarbans, India |
+| Winter 2021             |                                                          (CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
+| Fall 2014 - Spring 2016 |                                                                                                       Steindler Fellowship |
+| Spring 2017             |                                                                                                      Henry A. Jastro Grant |
+
+
