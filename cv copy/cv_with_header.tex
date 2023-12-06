@@ -1,0 +1,351 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  11pt]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot[L]{Aleksandr Michuda, +1-718-564-9741}
+\fancyfoot[R]{\thepage}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+%A Few Useful Packages
+% \usepackage{marvosym}
+% \usepackage{fontspec} 					%for loading fonts
+% \usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\RequirePackage{color,graphicx}
+% \usepackage[big]{layaureo} 				%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+% \usepackage{supertabular} 				%for Grades
+\usepackage{titlesec}					%custom \section
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\usepackage[margin=1in]{geometry}
+
+\def\toprule{}
+\def\bottomrule{}
+\def\midrule{}
+
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{3pt}{10pt}{10pt}
+%Tweak a bit the top margin
+\addtolength{\voffset}{-1.3cm}
+
+%Italian hyphenation for the word: ''corporations''
+\hyphenation{im-pre-se}
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\hypertarget{aleksandr-michuda}{%
+\section{Aleksandr Michuda}\label{aleksandr-michuda}}
+
+\textbf{Email}:
+\href{mailto:am2497@cornell.edu}{\nolinkurl{am2497@cornell.edu}}
+
+\textbf{Website}: \href{https://amichuda.github.io}{amichuda.github.io}
+
+\textbf{Github}: \href{https://github.com/amichuda}{github.com/amichuda}
+
+\textbf{Linkedin}:
+\href{https://www.linkedin.com/in/aleksandr-michuda}{www.linkedin.com/in/aleksandr-michuda}
+
+\hypertarget{appointments}{%
+\section{Appointments}\label{appointments}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.0556}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2778}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667}}@{}}
+\toprule
+\endhead
+2021+ & Assistant Research Professor & Center for Data Science for
+Enterprise and Society, Cornell University \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\endhead
+2021 & Agricultural and Resource Economics, UC Davis & PhD \\
+2014 & Economics CUNY Hunter College & BA/MA \\
+2014 & Philosophy CUNY Hunter College & BA \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{publications-and-working-papers}{%
+\section{Publications and Working
+Papers}\label{publications-and-working-papers}}
+
+\hypertarget{development-economics}{%
+\subsection{Development Economics}\label{development-economics}}
+
+\href{https://academic.oup.com/cdn/article/5/Supplement_2/693/6292849}{Vosti,
+Stephen, Katherine Adams, Aleksandr Michuda, Hanqi Luo, Demewoz
+Woldegebreal, Victoria Chou, Adrienne Clermont, Ismael Teta, Alex
+Ndjebayi, Jules Guintang, Reina Engle-Stone. ``Selecting Micronutrient
+Intervention Programs to Save Lives: Evidence From Cameroon''}
+\emph{Annals of the New York Academy of Sciences forthcoming}
+
+\href{https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178}{Gupta,
+Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy
+Majumder. ``Economic Impacts of the COVID-19 Lockdown in a
+Remittance‐dependent Region.'' \emph{American Journal of Agricultural
+Economics.}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{Working Papers}
+
+\href{https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing}{Michuda,
+Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan
+Sebastian Correa. ``Genetic Dilution erodes productivity: Exploring
+farmers' low adoption levels of improved maize in Ethiopia.'' (2022)}
+
+\href{https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing}{Michuda,
+Aleksandr. ``Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply
+Responses To Shocks In Uganda.'' (2022)} \emph{Submitted}
+
+\href{https://scholar.google.com/scholar_url?url=https://ageconsearch.umn.edu/record/322365/files/24195.pdf\&hl=en\&sa=T\&oi=gsb-gga\&ct=res\&cd=2\&d=12962046704729585600\&ei=7e1vY4C5MIqUy9YP-OmKyAQ\&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw}{Doan,
+Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy
+Majumder. ``Livelihood Strategies in a Climate-change Vulnerable
+Region.'' (2022)}
+
+\hypertarget{political-economy}{%
+\section{Political Economy}\label{political-economy}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{Working Papers}
+
+\href{https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing}{Michuda,
+Aleksandr, and Michael Kevane. ``Classification into ethnic groups in
+Burkina Faso using names and localities.'' (2022)}
+
+\href{https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing}{Bird,
+Samuel S.; Michuda, Aleksandr. ``Measuring Ethnicity and Estimating its
+Effects on Voting at Scale: Evidence from Uganda.'' (2022)}
+
+\hypertarget{applied-econometrics-and-software}{%
+\subsection{Applied Econometrics and
+Software}\label{applied-econometrics-and-software}}
+
+\href{https://academic.oup.com/cdn/article/6/Supplement_1/776/6606969}{Michuda,
+A., Ortiz-Becerra, K., Adams, K., Jarvis, M., Somda, H., Arnold, C.,
+\ldots{} \& Vosti, S. (2022). minimod: An Open Source Python Package to
+Evaluate the Cost Effectiveness of Micronutrient Intervention Programs.
+\emph{Current Developments in Nutrition, 6(Supplement\_1)}, 776-776.}
+
+\href{https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109}{Cabanillas,
+Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia
+Tjernström. ``Fitting and interpreting correlated random-coefficient
+models using Stata.'' \emph{Stata Journal} 18, no. 1 (2018): 159-173.}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{Working Papers}
+
+\href{https://emiliatjernstrom.com/files/TGBLMM2020.pdf}{Tjernström,
+Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert,
+Jeffrey D. Michler, and Aleksandr Michuda. ``A Group Random Coefficient
+Approach to Modeling Heterogeneous Returns to Technology Adoption.''
+(2021)}
+
+\hypertarget{agricultural-economics}{%
+\subsection{Agricultural Economics}\label{agricultural-economics}}
+
+\href{https://www.mdpi.com/2073-4395/11/1/149}{Michuda, Aleksandr,
+Rachael E. Goodhue, Mark Hoffmann, and Steven A. Fennimore. ``Predicting
+Net Returns of Organic and Conventional Strawberry Following Soil
+Disinfestation with Steam or Steam Plus Additives.'' \emph{Agronomy} 11,
+no. 1 (2021): 149.}
+
+\href{https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA\%3Ak9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp}{Michuda,
+Aleksandr, Rachael Goodhue, Karen Klonsky, Graeme Baird, Lucinda Toyama,
+Margherita Zavatta, Joji Muramoto, and Carol Shennan. ``The economic
+viability of suppressive crop rotations for the control of verticillium
+wilt in organic strawberry production.'' \emph{Agroecology and
+Sustainable Food Systems} 43, no. 9 (2019): 984-1008.}
+
+\href{https://giannini.ucop.edu/publications/are-update/issues/2017/20/6/crop-rotations-can-increase-net-returns-in-organic/}{Michuda,
+Aleksandr, Rachael Goodhue, Joji Muramoto, and Carol Shennan. ``Crop
+Rotations Can Increase Net Returns in Organic Strawberry and Vegetable
+Production Systems.'' \emph{ARE Update} 20(6)(2017): 5-8. University of
+California Giannini Foundation of Agricultural Economics.}
+
+\hypertarget{book-chapters}{%
+\section{Book Chapters}\label{book-chapters}}
+
+\href{https://link.springer.com/chapter/10.1007/978-3-030-14000-7_11}{Carter,
+Michael R., and Aleksandr Michuda. ``The Distribution of Productive
+Assets and the Economics of Rural Development and Poverty Reduction.''
+In The Palgrave Handbook of Development Economics, pp.~377-408. Palgrave
+Macmillan, Cham, 2019.}
+
+\hypertarget{languages-and-skills}{%
+\section{Languages and Skills}\label{languages-and-skills}}
+
+English: Fluent
+
+Russian: Fluent
+
+Ukrainian: Basic Knowledge
+
+\hypertarget{technical-skills}{%
+\section{Technical Skills}\label{technical-skills}}
+
+Python, GAMS, Stata, LaTeX, R, GitHub, Bash
+
+\hypertarget{past-experience}{%
+\section{Past Experience}\label{past-experience}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1923}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6250}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1827}}@{}}
+\toprule
+\endhead
+Consultant & MINIMOD - Optimal Nutritional Interventions across Space
+and Time & January 2020 - July 2022 \\
+Data Science Intern & Uber & September 2019 - December 2019 \\
+Catalyst & BITSS (Berkeley Initiative for Transparency in the Social
+Sciences) & July 2017 - Present \\
+Research Assistant & UC Davis - Disease Suppressive Crop Rotations &
+July 2016 - September 2019 \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{peer-review}{%
+\section{Peer Review}\label{peer-review}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://agrifoodecon.springeropen.com/}{Journal of Agricultural
+  and Food Economics}
+\item
+  \href{https://onlinelibrary.wiley.com/journal/14678276}{American
+  Journal of Agricultural Economics}
+\end{itemize}
+
+\hypertarget{conferences}{%
+\section{Conferences}\label{conferences}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2353}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7647}}@{}}
+\toprule
+\endhead
+NEUDC 2022 & Genetic Dilution erodes productivity: Exploring farmers'
+low adoption levels of improved maize in Ethiopia \\
+Pacdev 2022 & Urban Labor Supply Responses to Rural Drought Shocks on
+Rideshare Platforms. \\
+NEUDC 2021 & Urban Labor Supply Responses to Rural Drought Shocks on
+Rideshare Platforms. \\
+BITSS RT2 2020 & Dynamic Documents with Jupyter Notebooks \\
+AAEA Meetings 2019 & Evaluating a Systems Approach to Suppressive Crop
+Rotations in Strawberry Production \\
+AAEA Meetings 2018 & Political Contributions and the Case of South
+African Land Reform \\
+AAEA Meetings 2017 & The Economic Viability of Suppressive Crop
+Rotations in Organic Strawberry Production \\
+& Empirically Estimating the Impact of Weather on Agriculture \\
+EEA Conference 2014 & The Russian Mir and Agrarian Transition \\
+CUNY's UGRC 2013 & Large Frontiers and Coercion: An Economic
+Perspective \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{scholarships-and-awards}{%
+\section{Scholarships and Awards}\label{scholarships-and-awards}}
+
+\small
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2771}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7229}}@{}}
+\toprule
+\endhead
+Summer 2022 & NSF OSP: 142678 \\
+& Conference on Reproducibility and Replicability in Economics and
+Social Sciences (CRRESS) \\
+Summer 2022 & Dyson AEP Faculty Seed Grant \\
+& The Surname-Ethnicity Connection: A Validation Exercise \\
+Spring 2022 & Dyson AEP Faculty Seed Grant \\
+& Climate induced soil salinity impacts on agricultural productivity and
+livelihood diversification in the Sundarbans, India \\
+Winter 2021 & (CGIAR) SPIA small grant for agricultural innovations in
+Ethiopia \\
+Fall 2014 - Spring 2016 & Steindler Fellowship \\
+Spring 2017 & Henry A. Jastro Grant \\
+Fall 2017 & BITSS Catalyst Grant \\
+2017 & Graduate Student Association President \\
+\bottomrule
+\end{longtable}
+
+\end{document}

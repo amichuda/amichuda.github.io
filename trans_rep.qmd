@@ -1,0 +1,62 @@
+
+
+# Transparency and Reproducibility
+
+## CRRESS
+
+![](images/crress-logo.png)
+
+The Conference on Reproducibility and Replicability in Economics and the Social Sciences is a series of NSF-funded, virtual and in-person panels on the topics of reproducibility, replicability, and transparency in the social sciences. The purpose of scientific publishing is the dissemination of robust research findings, exposing them to the scrutiny of peers and other interested parties. Scientific articles should accurately and completely provide information on the origin and provenance of data and on the analytical and computational methods used. Yet in recent years, doubts about the adequacy of the information provided in scientific articles and their addenda have been voiced. The conferences will address the following topics: the initiation of research, the conduct of research, the preparation of research for publication, and the scrutiny after publication. Undergraduates, graduate students, and career researchers will be able to learn about best practices for transparent, reproducible, and scientifically sound research in the social sciences.
+
+- Access the book [here](https://labordynamicsinstitute.github.io/crress-book/)
+
+
+## BITSS Catalyst- Berkeley Initiative for Transparency in the Social Sciences
+
+- Organized workshops that teach reproducibility and transparency in
+    social sciences.
+- Taught Anonymization of data as well as replication techniques.
+- Taught Jupyter Notebooks portion of dynamic documents (R Markdown,
+    Jupyter Notebooks, Stata Markdown)
+
+Visit [https://www.bitss.org/](https://www.bitss.org/) for more information!
+
+### 2020 BITSS RT2
+
+[Link to Materials](https://github.com/amichuda/bitss-rt2-2020-jupyter){: .md-button .md-button--primary}
+
+### 2019 [REBEL](https://twitter.com/UR_REBEL) Conference
+
+[Link to Materials](https://osf.io/dpwae/){: .md-button .md-button--primary}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Advanced Dynamic documents lecture by Aleks Michuda from <a href="https://twitter.com/UCBITSS?ref_src=twsrc%5Etfw">@UCBITSS</a> <a href="https://twitter.com/hashtag/BEEW2019?src=hash&amp;ref_src=twsrc%5Etfw">#BEEW2019</a> <a href="https://t.co/kESP4wntfy">pic.twitter.com/kESP4wntfy</a></p>&mdash; REBEL (@UR_REBEL) <a href="https://twitter.com/UR_REBEL/status/1083077510869512192?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 2018 BITSS Bogota
+
+[Link to Materials](https://osf.io/fbkts/){: .md-button .md-button--primary}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From our first workshop in Colombia! <a href="https://twitter.com/ucdavis?ref_src=twsrc%5Etfw">@UCDavis</a> Catalysts Oscar Barriga Cabanillas, Aleksandr Michuda, and Matthieu Stigler led a training on transparency and reproducibility in policy research. Slides, demos, and other resources at <a href="https://t.co/50Dx2TPdHD">https://t.co/50Dx2TPdHD</a> <a href="https://t.co/q0rbur9dgf">pic.twitter.com/q0rbur9dgf</a></p>&mdash; Research Transparency (@UCBITSS) <a href="https://twitter.com/UCBITSS/status/989617806227390465?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## STAAARS+ 2021: Cohort 2
+
+Data Management Workshop
+
+### Day 1: Transparency and Reproducibility
+
+<div class="day1">
+  <iframe src="https://drive.google.com/file/d/17TA-iECULHaaRuoRkQSnfcb7PdDnN7DC/preview" width="640" height="480" allow="autoplay"></iframe>
+</div>
+
+### Day 2: Data Management and GitHub
+
+<div class="day2">
+<iframe src="https://drive.google.com/file/d/1MG-gwRzVVPz4YSJnmoClw3HCv8tB7DW3/preview" width="640" height="480" allow="autoplay"></iframe>
+</div>
+
+### Day 3: Dynamic Documents in Python, R and Stata
+
+<div class="day3">
+<iframe src="https://drive.google.com/file/d/1-9mutoN1NYx23-GB80cRdRYL_M1B9L6g/preview" width="640" height="480" allow="autoplay"></iframe>
+</div>

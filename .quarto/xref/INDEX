@@ -1,0 +1,42 @@
+{
+  "research/working-papers.qmd": {
+    "working-papers.html": "625b0a27"
+  },
+  "research/works-in-progress.qmd": {
+    "works-in-progress.html": "62562b9c"
+  },
+  "research/published.qmd": {
+    "published.html": "b58ab5a3"
+  },
+  "research/chapters-other.qmd": {
+    "chapters-other.html": "e31cc2d3"
+  },
+  "index.qmd": {
+    "index.html": "3ec4956a"
+  },
+  "software.qmd": {
+    "software.html": "e258c7dc"
+  },
+  "teaching/teaching.qmd": {
+    "teaching.html": "ccd227aa"
+  },
+  "cv/cv.md": {
+    "cv.html": "dfa05eea",
+    "cv.tex": "18b16ec2"
+  },
+  "cv/publication_list.md": {
+    "publication_list.html": "946c6610"
+  },
+  "cv/resume.md": {
+    "resume.html": "bb2fef33"
+  },
+  "cv/cv_with_footer.md": {
+    "cv_with_footer.html": "e755b602"
+  },
+  "cv/cv_wfp.md": {
+    "cv_wfp.html": "282f1d51"
+  },
+  "trans_rep.qmd": {
+    "trans_rep.html": "1cb69e9e"
+  }
+}

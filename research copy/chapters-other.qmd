@@ -1,0 +1,26 @@
+---
+title: Book Chapters and Other Publications
+description: Published book chapters, blogs and articles.
+---
+
+## Book Chapters
+
+### The Distribution of Productive Assets and the Economics of Rural Development and Poverty Reduction.
+
+*With Michael R. Carter*
+
+
+:::{.callout-note collapse="true"}
+## Abstract 
+
+In the 1960s and 1970s, academic and policy debates on agrarian issues often spun around the distribution of land, with some arguing that neither rural development nor poverty reduction was possible without asset redistribution. While resting on defensible theoretical foundations, the argument for large-scale redistribution gave way to microfinance and other less radical interventions intended to allow low wealth households to do more with their existing, modest asset endowments. While also resting on defensible theoretical foundations, this “lend, don’t redistribute wealth” perspective coincided with a shift of development economics away from big picture theorizing towards an impact evaluation economics focused on reliable identification of microfinance and other singular interventions. Interestingly, despite the promise of microfinance to substitute for asset redistribution, impact evaluation economics found it to have at best modest effects on the class positions and living standards of poor households. In a perhaps ironic twist, a new generation of programs built around the transfer of tangible assets has shown much more promise in terms of changing household economic strategies and placing them on trajectories of sustained economic advance. While sharing some similarities with older perspectives on asset redistribution, these new approaches reflect new learning on both the psychology of poverty and the economics of asset accumulation by poor households.
+
+:::
+
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-14000-7_11){.btn .btn-outline-primary .btn role="button"}
+
+## Other Publications
+
+[Michuda, Aleksandr, Rachael Goodhue, Joji Muramoto, and Carol Shennan. "Crop Rotations Can Increase Net Returns in Organic Strawberry and Vegetable Production Systems." *ARE Update* 20(6)(2017): 5-8. University of California Giannini Foundation of Agricultural Economics.](https://giannini.ucop.edu/publications/are-update/issues/2017/20/6/crop-rotations-can-increase-net-returns-in-organic/)
+
+[Michuda, A., Ortiz-Becerra, K., Adams, K., Jarvis, M., Somda, H., Arnold, C., ... & Vosti, S. (2022). minimod: An Open Source Python Package to Evaluate the Cost Effectiveness of Micronutrient Intervention Programs. *Current Developments in Nutrition, 6(Supplement_1)*, 776-776.](https://academic.oup.com/cdn/article/6/Supplement_1/776/6606969)

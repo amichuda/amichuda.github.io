@@ -1,0 +1,20 @@
+---
+title: Works in Progress
+description: Current projects that are actively underway.
+---
+
+Chris Barrett, Aleksandr Michuda, David Newhouse, Elizabeth Tennant, and Joanna Upton. "Using Data Fusion to Improve Human Capital Indicators" 
+
+Aleksandr Michuda, Abhilasha Sahay, Nivedhitha Subramanian. "H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market" 
+
+Aleksandr Michuda. "Revisiting Urban Migrants’ Responses to Rural Weather Shocks." 
+
+Aleksandr Michuda. "Rideshare Platforms with Savings Mechanisms: Implications for Urban Household Welfare."
+
+Brennan Antone and Aleksandr Michuda. "Transactive Memory Systems in Boda-boda Networks."
+
+Aleksandr Michuda and Alfredo Torrico. "The Boda Driver Adoption Decision: Centrally Planned Stages or Decentralized Matching?"
+
+Isaac Ahimbisibwe and Aleksandr Michuda. "Ugandan Surname Prediction Validation"
+
+Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. "UAVs and Emergency Medical Supply Chains."
