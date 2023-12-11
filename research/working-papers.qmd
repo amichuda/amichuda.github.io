@@ -121,7 +121,7 @@ will be rising inter-ethnic tension over political power and resource allocation
 Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the nonparametric panel identification literature, we start with an unrestricted GRC model that nonparametrically identifies the returns to adoption under time homogeneity. We show that the parameters of the S2011 correlated random coefficient model (CRC) can be identified from a restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be used to detect identification concerns for key structural parameters from the CRC model. We illustrate our method using the same data set as the original study and find that the motivating empirical puzzle remains unsolved.
 :::
 
-[PDF](https://emiliatjernstrom.com/files/TGBLMM2020.pdf){.btn .btn-outline-primary .btn role="button"}
+[PDF](https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ## Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production
 
