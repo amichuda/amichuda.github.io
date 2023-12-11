@@ -79,7 +79,7 @@ format:
 
 [Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
 
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2023)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf) ***Submitted***
+[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2023)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf) ***Revise and Resubmit, Econometrica***
 
 [Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2023)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
 
