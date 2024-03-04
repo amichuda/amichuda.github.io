@@ -192,6 +192,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 |                         |                                                                                                                            |
 | :---------------------- | -------------------------------------------------------------------------------------------------------------------------: |
 | Spring 2024             |                                                                                           Einaudi Center Faculty Seed Grant|
+|                         |                                                    The Welfare Effects of UAV Healthcare Delivery on the Migration Decision|
 | Summer 2023             |                                                                                                Azure Cloud Computing Grant |
 |                         |                                   H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
 | Summer 2022             |                                                                                                            NSF OSP: 142678 |
