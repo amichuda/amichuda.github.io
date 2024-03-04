@@ -126,7 +126,7 @@ Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. "UAVs and Emer
 
 # Peer Review
 
-*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*
+*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*; *Food Policy*; *The Journal of African Economies*
 
 
 # Teaching
@@ -191,6 +191,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                         |                                                                                                                            |
 | :---------------------- | -------------------------------------------------------------------------------------------------------------------------: |
+| Spring 2024             |                                                                                           Einaudi Center Faculty Seed Grant|
 | Summer 2023             |                                                                                                Azure Cloud Computing Grant |
 |                         |                                   H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
 | Summer 2022             |                                                                                                            NSF OSP: 142678 |
