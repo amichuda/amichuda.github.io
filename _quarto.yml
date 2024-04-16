@@ -3,7 +3,7 @@ project:
 
 website:
   body-header: | 
-    **Download my CV** [**here**](cv/cv.pdf "download" ){target="_blank"}
+    **Download my CV** [**here**](/cv/cv.pdf "download" ){target="_blank"}
   back-to-top-navigation: true
   page-footer: 
     left: "Copyright 2023, Aleksandr Michuda" 
