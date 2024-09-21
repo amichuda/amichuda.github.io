@@ -42,9 +42,11 @@ My research agenda encompasses two often interrelated topics: the first is using
 # Appointments
 
 |              |                              |                                                                        |
-|:------------ | ----------------------------:| ----------------------------------------------------------------------:|
-| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
+| :----------- | ---------------------------: | ---------------------------------------------------------------------: |
+| 2024-Present | Visiting Assistant Professor |                            Department of Economics, Swarthmore College |
+| 2021-2024    | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
                                             
+                                          
 
 
 # Education
@@ -72,6 +74,7 @@ My research agenda encompasses two often interrelated topics: the first is using
 
 |             |                                          |            |                    |
 | ----------- | ---------------------------------------- | ---------- | ------------------ |
+| Fall 2024   | Economics 1                              | Professor  | Swarthmore College |
 | Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
 | Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |
 | Fall 2018   | Microeconomics                           | TA         | UC Davis           |
@@ -112,6 +115,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                  |                                                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| CIDER-CRS 2024   | Nowcasting shocks to human capital                                                                         |
 | NEUDC 2022       | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
 | PACDEV 2022      | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
 | NEUDC 2021       | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
@@ -130,6 +134,9 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                         |                                                                                                                            |
 | :---------------------- | -------------------------------------------------------------------------------------------------------------------------: |
+| Fall 2024               |  IDInsight, Digital Economy Research & Impact Initiative: "Uncertainty and Frictions in Gig Work: Evidence via Conditional Income Guarantee Interventions |
+| Spring 2024             |                                                                                          Einaudi Center Faculty Seed Grant |
+|                         |                                                   The Welfare Effects of UAV Healthcare Delivery on the Migration Decision |
 | Summer 2023             |                                                                                                Azure Cloud Computing Grant |
 |                         |                                   H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
 | Summer 2022             |                                                                                                            NSF OSP: 142678 |
