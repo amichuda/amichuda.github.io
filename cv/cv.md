@@ -35,7 +35,7 @@ format:
 # Aleksandr Michuda
 
 
-**Email**: [am2497@cornell.edu](mailto:am2497@cornell.edu)
+**Email**: [amichud1@swarthmore.edu](mailto:amichud1@swarthmore.edu)
 
 **Website**: [amichuda.github.io](https://amichuda.github.io)
 
