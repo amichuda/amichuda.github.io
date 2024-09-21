@@ -2,6 +2,34 @@
 documentclass: article
 classoption:
   - 11pt
+format:
+  html: default
+  pdf:
+    colorlinks: false
+    include-in-header:
+      - text: |
+          \let\paragraph=\oldparagraph
+          \let\subparagraph=\oldsubparagraph
+          \RequirePackage{color,graphicx}
+          \usepackage{titlesec}	
+          \usepackage{hyperref}
+          \usepackage[margin=1in]{geometry}
+          \def\toprule{}
+          \def\bottomrule{}
+          \def\midrule{}
+          \titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+          \titlespacing{\section}{3pt}{10pt}{10pt}
+          \addtolength{\voffset}{-1.3cm}
+          \hyphenation{im-pre-se}
+          \ifx\paragraph\undefined\else
+          \let\oldparagraph\paragraph
+            \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+          \fi
+          \ifx\subparagraph\undefined\else
+            \let\oldsubparagraph\subparagraph
+            \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+          \fi
+
 ---
 
 # Aleksandr Michuda
@@ -38,9 +66,16 @@ Ukrainian: Conversational
 
 # Experience
 
+## Swarthmore College - Visiting Assistant Professor - Department of Economics
+
+- August 2024 - Present
+- Teach economics, econometrics and data science to undergraduate students
+- Research on the entrance of ride-share platforms in developing countries
+- Engage with corporate partners through data user agreements (DUAs) to conduct analysis with restricted data
+
 ## Cornell University - Assistant Research Professor - Center for Data Science for Enterprise and Society
 
-- August 2021 - Present
+- August 2021 - August 2024
 - Research on the entrance of ride-share platforms in developing countries
 - Engage with corporate partners through data user agreements (DUAs) to conduct analysis with restricted data
 - Collaborate with faculty from Dyson Business School and the Information School
@@ -80,6 +115,10 @@ Ukrainian: Conversational
 
 # Selected Works
 
+Tennant, Elizabeth; Aleksandr Michuda, Joanna B. Upton, Andres Chamorro, Michael L. Mann, David Newhouse, Christopher B. Barrett. "Nowcasting shocks to human capital." (2024)
+
+[Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. "Land market responses to weather shocks: evidence from rural Uganda and Kenya." European Review of Agricultural Economics 50, no. 3 (2023): 954-977.](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbad005/7074081)
+
 [Michuda, Aleksandr. "Urban Labor Supply Responses to Weather Shocks for Ugandan Uber Drivers."](https://drive.google.com/file/d/1iO20c-6p1hq087MmM7LuYAY_SbHGal57/view?usp=sharing)  
 
 [Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1kmSawentCvzDflencjPwHJ-3r3_tzNOV/view?usp=sharing) ***Submitted***
@@ -90,6 +129,5 @@ Ukrainian: Conversational
 
 [Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." Stata Journal 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109)
 
-Link to full publication list can be found [**here**](https://amichuda.github.io/cv/aleksandr_michuda_cv.pdf)
 
 

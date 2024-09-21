@@ -16,7 +16,7 @@ about:
           href: https://www.linkedin.com/in/aleksandr-michuda-3a839b149/
         - icon: envelope
           text: "Email Me!"
-          href: mailto:am2497@cornell.edu
+          href: mailto:amichud1@swarthmore.edu
 ---
 
 
