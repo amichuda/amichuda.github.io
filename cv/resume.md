@@ -36,7 +36,7 @@ format:
 
 |                         |                                                        |
 |-------------------------|--------------------------------------------------------|
-|**Address**: New York, NY| **Email**: [\textcolor{blue}{am2497@cornell.edu}](mailto:am2497@cornell.edu)|
+|**Address**: New York, NY| **Email**: [\textcolor{blue}{amichuda@gmail.com}](mailto:amichuda@gmail.com)|
 |**Github**: [\textcolor{blue}{https://github.com/amichuda}](https://github.com/amichuda) |**Personal Website**: [\textcolor{blue}{https://amichuda.github.io/}](https://amichuda.github.io/)|
 
 # Summary
