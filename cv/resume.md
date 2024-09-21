@@ -41,7 +41,7 @@ format:
 
 # Summary
 
-Economist with a passion for causal inference done rigorously and in conjunction with machine learning predictions. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
+Economist with a passion for causal inference done rigorously and in conjunction with machine learning predictions and data science techniques. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
 
 # Education
 
