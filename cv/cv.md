@@ -46,17 +46,18 @@ format:
 # Appointments
 
 |              |                              |                                                                        |
-|:------------ | ----------------------------:| ----------------------------------------------------------------------:|
-| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
+| :----------- | ---------------------------: | ---------------------------------------------------------------------: |
+| 2024-Present | Visiting Assistant Professor |                            Department of Economics, Swarthmore College |
+| 2021-2024    | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
                                             
 
 
 # Education
-|      |                                               |                                        |
-| ---  | :-----------------------------------------------:| :----                                  |
-| 2021 | Agricultural and Resource Economics, UC Davis |   PhD                                  | 
-| 2014 |                 Economics CUNY Hunter College | BA/MA                                  | 
-| 2014 |                Philosophy CUNY Hunter College |    BA                                  | 
+|      |                                               |       |
+| ---- | :-------------------------------------------: | :---- |
+| 2021 | Agricultural and Resource Economics, UC Davis | PhD   |
+| 2014 |         Economics CUNY Hunter College         | BA/MA |
+| 2014 |        Philosophy CUNY Hunter College         | BA    |
 
 
 
@@ -77,6 +78,11 @@ format:
 
 # Working Papers
 
+Tennant, Elizabeth; Aleksandr Michuda, Joanna B. Upton, Andres Chamorro, Michael L. Mann, David Newhouse, Christopher B. Barrett. "Nowcasting shocks to human capital." (2024)
+
+Zhang, Yujia; Varun Gande, Aleksandr Michuda, Peter Frazier. "SARS-CoV-2 Transmission in Classrooms on a 
+College Campus: A Retrospective Cohort Study." (2024)
+
 [Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
 
 [Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2023)](https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf) ***Revise and Resubmit, Econometrica***
@@ -91,8 +97,6 @@ format:
 
 
 # Works in Progress
-
-Chris Barrett, Aleksandr Michuda, David Newhouse, Elizabeth Tennant, and Joanna Upton. "Using Data Fusion to Improve Human Capital Indicators" 
 
 Aleksandr Michuda, Abhilasha Sahay, Nivedhitha Subramanian. "H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market" 
 
@@ -133,18 +137,19 @@ Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. "UAVs and Emer
 
 |             |                                          |            |                    |
 | ----------- | ---------------------------------------- | ---------- | ------------------ |
+| Fall 2024   | Economics 1                              | Professor  | Swarthmore College |
 | Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
 | Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |
 | Fall 2018   | Microeconomics                           | TA         | UC Davis           |
 
 # Service
 
-|                                          |                     |
-|                    --------------------- | ------------------- |
-|                    Summer 2023 - Present | GAIN Mentor         |
-|                    Fall 2022 - Present   | Mentor for STAAARS+ |
-|                    Fall 2017 - Present   | BITSS Catalyst Grant |
-|                    2017                  | Graduate Student Association President |
+|                       |                                        |
+| --------------------- | -------------------------------------- |
+| Summer 2023 - Present | GAIN Mentor                            |
+| Fall 2022 - Present   | Mentor for STAAARS+                    |
+| Fall 2017 - Present   | BITSS Catalyst Grant                   |
+| 2017                  | Graduate Student Association President |
 
 
 # Languages and Skills
@@ -173,6 +178,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                  |                                                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| CIDER-CRS 2024   | Nowcasting shocks to human capital                                                                         |
 | NEUDC 2022       | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
 | PACDEV 2022      | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
 | NEUDC 2021       | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
@@ -191,8 +197,9 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                         |                                                                                                                            |
 | :---------------------- | -------------------------------------------------------------------------------------------------------------------------: |
-| Spring 2024             |                                                                                           Einaudi Center Faculty Seed Grant|
-|                         |                                                    The Welfare Effects of UAV Healthcare Delivery on the Migration Decision|
+| Fall 2024               |  IDInsight, Digital Economy Research & Impact Initiative: "Uncertainty and Frictions in Gig Work: Evidence via Conditional Income Guarantee Interventions |
+| Spring 2024             |                                                                                          Einaudi Center Faculty Seed Grant |
+|                         |                                                   The Welfare Effects of UAV Healthcare Delivery on the Migration Decision |
 | Summer 2023             |                                                                                                Azure Cloud Computing Grant |
 |                         |                                   H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
 | Summer 2022             |                                                                                                            NSF OSP: 142678 |
