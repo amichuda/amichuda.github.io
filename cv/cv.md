@@ -85,9 +85,9 @@ College Campus: A Retrospective Cohort Study." (2024)
 
 [Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
 
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2023)](https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf) ***Revise and Resubmit, Econometrica***
+[Tjernström, Emilia, Dalia Ghanem, Aleksandr Michuda, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2023)](https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf) ***Revise and Resubmit, Econometrica***
 
-[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2023)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
+[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2024)](https://drive.google.com/file/d/1G9R6lIEuhbn38x31gmkEavoAG9AtNx0s/view?usp=sharing) 
 
 [Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
 
