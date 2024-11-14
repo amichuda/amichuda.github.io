@@ -14,9 +14,35 @@ This paper examines the effect of flexible labor arrangements on insuring agains
 
 [PDF](https://drive.google.com/file/d/1G9R6lIEuhbn38x31gmkEavoAG9AtNx0s/view?usp=sharing){.btn .btn-outline-primary .btn role="button"}
 
+## A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption
+
+*With Emilia Tjernstrom, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler*
+
+*Revise and Resubmit, Econometrica*
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+This paper illustrates and addresses weak identification concerns in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption.
+Using the publicly available version of the dataset used in Suri (2011), cleaned per the author's instructions, we are unable to replicate the paper's main CRC model results.
+To understand why, we recast the CRC model as a more general random coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage.
+This reveals that the key structural parameter in the CRC model ($\phi$) is prone to a weak identification problem.
+We then propose a procedure to conduct weak-identification robust inference on $\phi$ using test inversion.
+Only with this robust procedure accounting for weak identification are we able to reconcile the original Suri (2011) results.
+:::
+
+[PDF](https://drive.google.com/file/d/1CoQelaFIoGswFv4Kh_kMAIw42cjhuOEU/view?usp=sharing){.btn .btn-outline-primary .btn role="button"}
+
+## Gendered Impacts of Reforming Night-Shift Work in India
+
+[Link to Extended Abstract](https://drive.google.com/file/d/1SZofJ2SmoJabcdUJPwwzwBWB4Fvv5gAn/view?usp=sharing){.btn .btn-outline-primary .btn role="button"}
+
+
 ## Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia
 
 *with Cristina Chiarella, Juan Sebastian Correa and Oscar Barriga Cabanillas*
+
+*Submitted*
 
 :::{.callout-note collapse="true"}
 ## Abstract
@@ -109,19 +135,6 @@ will be rising inter-ethnic tension over political power and resource allocation
 
 [PDF](https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing){.btn .btn-outline-primary .btn role="button"}
 
-## A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption
-
-*With Emilia Tjernstrom, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler*
-
-*Revise and Resubmit, Econometrica*
-
-:::{.callout-note collapse="true"}
-## Abstract
-
-Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the nonparametric panel identification literature, we start with an unrestricted GRC model that nonparametrically identifies the returns to adoption under time homogeneity. We show that the parameters of the S2011 correlated random coefficient model (CRC) can be identified from a restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be used to detect identification concerns for key structural parameters from the CRC model. We illustrate our method using the same data set as the original study and find that the motivating empirical puzzle remains unsolved.
-:::
-
-[PDF](https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ## Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production
 
