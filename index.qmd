@@ -23,7 +23,7 @@ about:
 :::{#socials-heading-hack}
 
 :::
-I am an Assistant Research Professor at Cornell University's [Center for Data Science for Enterprise and Society](https://datasciencecenter.cornell.edu/).
+I am a Visiting Assistant Professor at the [Department of Economics at Swarthmore College](https://www.swarthmore.edu/economics).
 
 My interests include development economics, transparency in social science and using machine learning to solve problems in development.
 
@@ -67,13 +67,15 @@ My research agenda encompasses two often interrelated topics: the first is using
 
 # Peer Review
 
-*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*
+*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*; *Journal of African Economies*
 
 
 # Teaching
 
 |             |                                          |            |                    |
 | ----------- | ---------------------------------------- | ---------- | ------------------ |
+| Spring 2025 | Introduction to Econometrics             | Professor  | Swarthmore College |
+| Spring 2025 | Economics 1                              | Professor  | Swarthmore College |
 | Fall 2024   | Economics 1                              | Professor  | Swarthmore College |
 | Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
 | Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |

@@ -137,6 +137,8 @@ Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. "UAVs and Emer
 
 |             |                                          |            |                    |
 | ----------- | ---------------------------------------- | ---------- | ------------------ |
+| Spring 2025 | Introduction to Econometrics             | Professor  | Swarthmore College |
+| Spring 2025 | Economics 1                              | Professor  | Swarthmore College |
 | Fall 2024   | Economics 1                              | Professor  | Swarthmore College |
 | Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
 | Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |
