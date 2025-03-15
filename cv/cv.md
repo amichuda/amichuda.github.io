@@ -63,7 +63,7 @@ format:
 
 # Publications
 
-Colina, Armando R., Stephen A. Vosti, Michael Jarvis, Reina Engle-Stone, Aleksandr Michuda, Karen Ortiz-Becerra, and Katherine P. Adams. "Cost-effectiveness of fortified bouillon in addressing Burkinabe children’s vitamin A inadequacy: An economic optimization model." *Annals of the New York Academy of Sciences forthcoming*
+[Colina, Armando R., Stephen A. Vosti, Michael Jarvis, Reina Engle-Stone, Aleksandr Michuda, Karen Ortiz-Becerra, and Katherine P. Adams. "Cost-effectiveness of fortified bouillon in addressing Burkinabe children’s vitamin A inadequacy: An economic optimization model." Annals of the New Academy of Science (2025)](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.15290)
 
 [Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. "Land market responses to weather shocks: evidence from rural Uganda and Kenya." European Review of Agricultural Economics 50, no. 3 (2023): 954-977.](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbad005/7074081)
 
@@ -85,7 +85,7 @@ Tennant, Elizabeth; Aleksandr Michuda, Joanna B. Upton, Andres Chamorro, Michael
 Zhang, Yujia; Varun Gande, Aleksandr Michuda, Peter Frazier. "SARS-CoV-2 Transmission in Classrooms on a 
 College Campus: A Retrospective Cohort Study." (2024)
 
-[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
+[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Revise and Resubmit, World Development***
 
 [Tjernström, Emilia, Dalia Ghanem, Aleksandr Michuda, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2023)](https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf) ***Revise and Resubmit, Econometrica***
 
