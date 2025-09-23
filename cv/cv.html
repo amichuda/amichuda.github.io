@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.7.23">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,15 +49,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-226bd0f977fa82dfae4534cac220d79a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-48e473adeccc421269c4b80f4c091a41.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f7566840ebdc9e801248c9fe31ed6c3b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +99,7 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -100,29 +120,6 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
     <a class="nav-link active" href="../cv/cv.html" aria-current="page"> 
 <span class="menu-text">CV</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Research</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
-        <li>
-    <a class="dropdown-item" href="../research/published.html">
- <span class="dropdown-text">Published Works</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../research/working-papers.html">
- <span class="dropdown-text">Working Papers</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../research/works-in-progress.html">
- <span class="dropdown-text">Works in Progress</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../research/chapters-other.html">
- <span class="dropdown-text">Book Chapters and Other Publications</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../trans_rep.html"> 
 <span class="menu-text">Transparency and Reproducibility</span></a>
@@ -187,20 +184,20 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 <h1>Appointments</h1>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 10%">
-<col style="width: 25%">
-<col style="width: 63%">
+<col style="width: 11%">
+<col style="width: 35%">
+<col style="width: 53%">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">2024-Present</td>
-<td style="text-align: right;">Visiting Assistant Professor</td>
+<td style="text-align: left;">2024-</td>
+<td style="text-align: left;">Visiting Assistant Professor</td>
 <td style="text-align: right;">Department of Economics, Swarthmore College</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2021-2024</td>
-<td style="text-align: right;">Assistant Research Professor</td>
-<td style="text-align: right;">Center for Data Science for Enterprise and Society, Cornell University</td>
+<td style="text-align: left;">Assistant Research Professor</td>
+<td style="text-align: right;">CDSES, Cornell University</td>
 </tr>
 </tbody>
 </table>
@@ -208,61 +205,101 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 <section id="education" class="level1">
 <h1>Education</h1>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 47%">
+<col style="width: 41%">
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>2021</td>
-<td style="text-align: center;">Agricultural and Resource Economics, UC Davis</td>
-<td style="text-align: left;">PhD</td>
+<td style="text-align: left;">2021</td>
+<td style="text-align: left;">Agricultural and Resource Economics, UC Davis</td>
+<td style="text-align: right;">PhD</td>
 </tr>
 <tr class="even">
-<td>2014</td>
-<td style="text-align: center;">Economics CUNY Hunter College</td>
-<td style="text-align: left;">BA/MA</td>
+<td style="text-align: left;">2014</td>
+<td style="text-align: left;">Economics CUNY Hunter College</td>
+<td style="text-align: right;">BA/MA</td>
 </tr>
 <tr class="odd">
-<td>2014</td>
-<td style="text-align: center;">Philosophy CUNY Hunter College</td>
-<td style="text-align: left;">BA</td>
+<td style="text-align: left;">2014</td>
+<td style="text-align: left;">Philosophy CUNY Hunter College</td>
+<td style="text-align: right;">BA</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="publications" class="level1">
 <h1>Publications</h1>
-<p><a href="https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.15290">Colina, Armando R., Stephen A. Vosti, Michael Jarvis, Reina Engle-Stone, Aleksandr Michuda, Karen Ortiz-Becerra, and Katherine P. Adams. “Cost-effectiveness of fortified bouillon in addressing Burkinabe children’s vitamin A inadequacy: An economic optimization model.” Annals of the New Academy of Science (2025)</a></p>
-<p><a href="https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbad005/7074081">Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. “Land market responses to weather shocks: evidence from rural Uganda and Kenya.” European Review of Agricultural Economics 50, no. 3 (2023): 954-977.</a></p>
-<p><a href="https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.14937">Vosti, Stephen A., Katherine P. Adams, Aleksandr Michuda, Karen Ortiz‐Becerra, Hanqi Luo, Demewoz Haile, Victoria B. Chou et al.&nbsp;“Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon.” Annals of the New York Academy of Sciences 1519, no. 1 (2023): 199-210.</a></p>
-<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178">Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. “Economic impacts of the COVID-19 lockdown in a remittance-dependent region.” American Journal of Agricultural Economics 103, no. 2 (2021): 466-485.</a></p>
-<p><a href="https://www.mdpi.com/2073-4395/11/1/149">Michuda, Aleksandr, Rachael E. Goodhue, Mark Hoffmann, and Steven A. Fennimore. “Predicting Net Returns of Organic and Conventional Strawberry Following Soil Disinfestation with Steam or Steam Plus Additives.” <em>Agronomy</em> 11, no. 1 (2021): 149.</a></p>
-<p><a href="https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA%3Ak9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp">Michuda, Aleksandr, Rachael Goodhue, Karen Klonsky, Graeme Baird, Lucinda Toyama, Margherita Zavatta, Joji Muramoto, and Carol Shennan. “The economic viability of suppressive crop rotations for the control of verticillium wilt in organic strawberry production.” <em>Agroecology and Sustainable Food Systems</em> 43, no. 9 (2019): 984-1008.</a></p>
-<p><a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109">Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. “Fitting and interpreting correlated random-coefficient models using Stata.” <em>Stata Journal</em> 18, no. 1 (2018): 159-173.</a></p>
+<div id="refs-published" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-bird_michuda_2025" class="csl-entry" role="listitem">
+Bird, Samuel S., and Aleksandr Michuda. 2025. <span>“<a href="https://www.sciencedirect.com/science/article/pii/S0305750X25002670?dgcid=author">Ethnic Diversity and Voting Behavior at Scale: Evidence from Uganda</a>.”</span> <em>World Development</em> 196: 107181.
+</div>
+<div id="ref-colina_etal_2025" class="csl-entry" role="listitem">
+Colina, Armando R., Stephen A. Vosti, Michael Jarvis, et al. 2025. <span>“<a href="https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.15290">Cost-Effectiveness of Fortified Bouillon in Addressing Burkinabe Children’s Vitamin a Inadequacy: An Economic Optimization Model</a>.”</span> <em>Annals of the New York Academy of Sciences</em>.
+</div>
+<div id="ref-tabetando_etal_2023" class="csl-entry" role="listitem">
+Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. 2023. <span>“<a href="https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbad005/7074081">Land Market Responses to Weather Shocks: Evidence from Rural Uganda and Kenya</a>.”</span> <em>European Review of Agricultural Economics</em> 50 (3): 954–77.
+</div>
+<div id="ref-vosti_etal_2023" class="csl-entry" role="listitem">
+Vosti, Stephen A., Katherine P. Adams, Aleksandr Michuda, et al. 2023. <span>“<a href="https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.14937">Impacts of Micronutrient Intervention Programs on Effective Coverage and Lives Saved: Modeled Evidence from Cameroon</a>.”</span> <em>Annals of the New York Academy of Sciences</em> 1519 (1): 199–210.
+</div>
+<div id="ref-gupta_etal_2021" class="csl-entry" role="listitem">
+Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. 2021. <span>“<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178">Economic Impacts of the COVID-19 Lockdown in a Remittance-Dependent Region</a>.”</span> <em>American Journal of Agricultural Economics</em> 103 (2): 466–85.
+</div>
+<div id="ref-cabanillas_etal_2018" class="csl-entry" role="listitem">
+Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. 2018. <span>“<a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109">Fitting and Interpreting Correlated Random-Coefficient Models Using Stata</a>.”</span> <em>Stata Journal</em> 18 (1): 159–73.
+</div>
+</div>
 </section>
 <section id="working-papers" class="level1">
 <h1>Working Papers</h1>
-<p>Tennant, Elizabeth; Aleksandr Michuda, Joanna B. Upton, Andres Chamorro, Michael L. Mann, David Newhouse, Christopher B. Barrett. “Nowcasting shocks to human capital.” (2024)</p>
-<p>Zhang, Yujia; Varun Gande, Aleksandr Michuda, Peter Frazier. “SARS-CoV-2 Transmission in Classrooms on a College Campus: A Retrospective Cohort Study.” (2024)</p>
-<p><a href="https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing">Bird, Samuel S.; Michuda, Aleksandr. “Ethnicity and voting at scale: Evidence from Uganda.” (2023)</a> <strong><em>Revise and Resubmit, World Development</em></strong></p>
-<p><a href="https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf">Tjernström, Emilia, Dalia Ghanem, Aleksandr Michuda, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler. “A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption.” (2023)</a> <strong><em>Revise and Resubmit, Econometrica</em></strong></p>
-<p><a href="https://drive.google.com/file/d/1G9R6lIEuhbn38x31gmkEavoAG9AtNx0s/view?usp=sharing">Michuda, Aleksandr. “Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda.” (2024)</a></p>
-<p><a href="https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing">Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. “Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia.” (2022)</a></p>
-<p><a href="https://ageconsearch.umn.edu/record/322365/files/24195.pdf&amp;hl=en&amp;sa=T&amp;oi=gsb-gga&amp;ct=res&amp;cd=2&amp;d=12962046704729585600&amp;ei=7e1vY4C5MIqUy9YP-OmKyAQ&amp;scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw">Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. “Livelihood Strategies in a Climate-change Vulnerable Region.” (2022)</a></p>
-<p><a href="https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing">Michuda, Aleksandr, and Michael Kevane. “Classification into ethnic groups in Burkina Faso using names and localities.” (2022)</a></p>
+<div id="refs-working" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-tennant_etal_2025" class="csl-entry" role="listitem">
+Tennant, Elizabeth J., Aleksandr Michuda, Joanna B. Upton, et al. 2025. <em><a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099819109032579290">Nowcasting Disruptions to Human Capital Formation: Evidence from High-Frequency Household and Geospatial Data in Rural Malawi</a></em>. 11202. The World Bank.
+</div>
+<div id="ref-tjernstrom_etal_2025" class="csl-entry" role="listitem">
+Tjernström, Emilia, Dalia Ghanem, Aleksandr Michuda, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler. 2025. <span>“<a href="https://arefiles.ucdavis.edu/uploads/pub/2023/12/11/tgblmm.pdf">A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption</a>.”</span>
+</div>
+<div id="ref-michuda_2024_uber" class="csl-entry" role="listitem">
+Michuda, Aleksandr. 2024. <span>“<a href="https://drive.google.com/file/d/1G9R6lIEuhbn38x31gmkEavoAG9AtNx0s/view?usp=sharing">Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses to Shocks in Uganda</a>.”</span>
+</div>
+<div id="ref-doan_etal_2022" class="csl-entry" role="listitem">
+Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. 2022. <span>“<a href="https://ageconsearch.umn.edu/record/322365/files/24195.pdf">Livelihood Strategies in a Climate-Change Vulnerable Region</a>.”</span>
+</div>
+<div id="ref-michuda_etal_2022_genetic" class="csl-entry" role="listitem">
+Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. 2022. <span>“<a href="https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing">Genetic Dilution Erodes Productivity: Exploring Farmers’ Low Adoption Levels of Improved Maize in Ethiopia</a>.”</span>
+</div>
+<div id="ref-michuda_kevane_2022" class="csl-entry" role="listitem">
+Michuda, Aleksandr, and Michael Kevane. 2022. <span>“<a href="https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing">Classification into Ethnic Groups in Burkina Faso Using Names and Localities</a>.”</span>
+</div>
+</div>
 </section>
 <section id="works-in-progress" class="level1">
 <h1>Works in Progress</h1>
+<p>Aleksandr Michuda. “A Machine Learning Misclassification Bias-Robust Linear Model”</p>
 <p>Aleksandr Michuda, Abhilasha Sahay, Nivedhitha Subramanian. “H-1B Policy and Women’s Labor Force Participation: A study of the Indian Marriage Market”</p>
-<p>Aleksandr Michuda. “Revisiting Urban Migrants’ Responses to Rural Weather Shocks.”</p>
-<p>Aleksandr Michuda. “Rideshare Platforms with Savings Mechanisms: Implications for Urban Household Welfare.”</p>
-<p>Brennan Antone and Aleksandr Michuda. “Transactive Memory Systems in Boda-boda Networks.”</p>
-<p>Aleksandr Michuda and Alfredo Torrico. “The Boda Driver Adoption Decision: Centrally Planned Stages or Decentralized Matching?”</p>
 <p>Isaac Ahimbisibwe and Aleksandr Michuda. “Ugandan Surname Prediction Validation”</p>
-<p>Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. “UAVs and Emergency Medical Supply Chains.”</p>
 </section>
 <section id="book-chapters-and-other-publications" class="level1">
 <h1>Book Chapters and Other Publications</h1>
-<p><a href="https://link.springer.com/chapter/10.1007/978-3-030-14000-7_11">Carter, Michael R., and Aleksandr Michuda. “The Distribution of Productive Assets and the Economics of Rural Development and Poverty Reduction.” In The Palgrave Handbook of Development Economics, pp.&nbsp;377-408. Palgrave Macmillan, Cham, 2019.</a></p>
-<p><a href="https://giannini.ucop.edu/publications/are-update/issues/2017/20/6/crop-rotations-can-increase-net-returns-in-organic/">Michuda, Aleksandr, Rachael Goodhue, Joji Muramoto, and Carol Shennan. “Crop Rotations Can Increase Net Returns in Organic Strawberry and Vegetable Production Systems.” <em>ARE Update</em> 20(6)(2017): 5-8. University of California Giannini Foundation of Agricultural Economics.</a></p>
-<p><a href="https://academic.oup.com/cdn/article/6/Supplement_1/776/6606969">Michuda, A., Ortiz-Becerra, K., Adams, K., Jarvis, M., Somda, H., Arnold, C., … &amp; Vosti, S. (2022). minimod: An Open Source Python Package to Evaluate the Cost Effectiveness of Micronutrient Intervention Programs. <em>Current Developments in Nutrition, 6(Supplement_1)</em>, 776-776.</a></p>
+<div id="refs-other" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-michuda_etal_2022_minimod" class="csl-entry" role="listitem">
+Michuda, A., K. Ortiz-Becerra, K. Adams, et al. 2022. <span>“<a href="https://academic.oup.com/cdn/article/6/Supplement_1/776/6606969">Minimod: An Open Source Python Package to Evaluate the Cost Effectiveness of Micronutrient Intervention Programs</a>.”</span> <em>Current Developments in Nutrition</em> 6 (Supplement_1): 776–76.
+</div>
+<div id="ref-michuda_etal_2021_agronomy" class="csl-entry" role="listitem">
+Michuda, Aleksandr, Rachael E. Goodhue, Mark Hoffmann, and Steven A. Fennimore. 2021. <span>“<a href="https://www.mdpi.com/2073-4395/11/1/149">Predicting Net Returns of Organic and Conventional Strawberry Following Soil Disinfestation with Steam or Steam Plus Additives</a>.”</span> <em>Agronomy</em> 11 (1): 149.
+</div>
+<div id="ref-carter_michuda_2019" class="csl-entry" role="listitem">
+Carter, Michael R., and Aleksandr Michuda. 2019. <span>“<a href="https://link.springer.com/chapter/10.1007/978-3-030-14000-7_11">The Distribution of Productive Assets and the Economics of Rural Development and Poverty Reduction</a>.”</span> In <em>The Palgrave Handbook of Development Economics</em>. Palgrave Macmillan.
+</div>
+<div id="ref-michuda_etal_2019_agroecology" class="csl-entry" role="listitem">
+Michuda, Aleksandr, Rachael Goodhue, Karen Klonsky, et al. 2019. <span>“<a href="https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228">The Economic Viability of Suppressive Crop Rotations for the Control of Verticillium Wilt in Organic Strawberry Production</a>.”</span> <em>Agroecology and Sustainable Food Systems</em> 43 (9): 984–1008.
+</div>
+<div id="ref-michuda_etal_2017_are" class="csl-entry" role="listitem">
+Michuda, Aleksandr, Rachael Goodhue, Joji Muramoto, and Carol Shennan. 2017. <span>“<a href="https://giannini.ucop.edu/publications/are-update/issues/2017/20/6/crop-rotations-can-increase-net-returns-in-organic/">Crop Rotations Can Increase Net Returns in Organic Strawberry and Vegetable Production Systems</a>.”</span> <em>ARE Update</em> 20 (6): 5–8.
+</div>
+</div>
 </section>
 <section id="editorships" class="level1">
 <h1>Editorships</h1>
@@ -308,13 +345,13 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 </tr>
 <tr class="even">
 <td>Spring 2025</td>
-<td>Economics 1</td>
+<td>Economics 100</td>
 <td>Professor</td>
 <td>Swarthmore College</td>
 </tr>
 <tr class="odd">
 <td>Fall 2024</td>
-<td>Economics 1</td>
+<td>Economics 100</td>
 <td>Professor</td>
 <td>Swarthmore College</td>
 </tr>
@@ -342,22 +379,26 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 <section id="service" class="level1">
 <h1>Service</h1>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 45%">
+<col style="width: 54%">
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>Summer 2023 - Present</td>
-<td>GAIN Mentor</td>
+<td style="text-align: left;">Summer 2023 - Present</td>
+<td style="text-align: right;">GAIN Mentor</td>
 </tr>
 <tr class="even">
-<td>Fall 2022 - Present</td>
-<td>Mentor for STAAARS+</td>
+<td style="text-align: left;">Fall 2022 - Present</td>
+<td style="text-align: right;">Mentor for STAAARS+</td>
 </tr>
 <tr class="odd">
-<td>Fall 2017 - Present</td>
-<td>BITSS Catalyst Grant</td>
+<td style="text-align: left;">Fall 2017 - Present</td>
+<td style="text-align: right;">BITSS Catalyst Grant</td>
 </tr>
 <tr class="even">
-<td>2017</td>
-<td>Graduate Student Association President</td>
+<td style="text-align: left;">2017</td>
+<td style="text-align: right;">Graduate Student Association President</td>
 </tr>
 </tbody>
 </table>
@@ -474,8 +515,8 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 <h1>Scholarships and Awards</h1>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 15%">
-<col style="width: 84%">
+<col style="width: 13%">
+<col style="width: 86%">
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -542,236 +583,242 @@ gtag('config', 'G-5860F6QGKQ', { 'anonymize_ip': true});
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/amichuda\.github\.io\/");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
         }
       }
+      return false;
     }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/amichuda\.github\.io\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
         }
-        return container.innerHTML
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -779,190 +826,166 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright 2024, Aleksandr Michuda</p>
+<p>Copyright 2025, Aleksandr Michuda</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -988,7 +1011,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:am2497@cornell.edu">
+    <a class="nav-link" href="mailto:amichud1@swarthmore.edu">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>
