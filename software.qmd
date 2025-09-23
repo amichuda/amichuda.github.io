@@ -5,6 +5,9 @@ hide:
 
 # Software
 
+<div class="github-card" data-github="minimod-nutrition/minimod-opt" data-width="400" data-height="155" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 <div class="github-card" data-github="amichuda/jupyter-doexport" data-width="400" data-height="155" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
