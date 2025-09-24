@@ -1,5 +1,18 @@
 # Teaching
 
+## ECON001: Introduction to Economics
+
+This is a one-semester course that provides an overview of the principles and ideas behind economics designed for non-majors. This course serves as an entry point for students wishing to continue their study of economics as well students that want to learn about the core concepts of economics. The goal of this course is not just to introduce you to the terms and parlance that economists use, but to provide a set of tools for asking and answering questions to problems. At the heart of economics, the central question is: how do people make decisions when faced with constraints and limited resources? What impact do these constraints have on their lives how does it scale up to people making decisions within a society? How do incentives play a vital role in these decisions?
+
+- [Syllabus](https://docs.google.com/document/d/1C-zS_nl0Xi99EuEfeUp5DPjFO_3hrINqolupZy8xCaA/edit?tab=t.0)
+
+## ECON031: Introduction to Econometrics
+
+This course is an introduction to the field of econometrics, with a focus on the fundamental principles and techniques of descriptive and inferential statistics. The course also emphasizes economic applications of statistical methods, particularly simple and multiple regression models. The course recognizes the importance of the underlying modeling assumptions and the challenges of empirically distinguishing correlation from causation. 
+
+- [Syllabus](https://docs.google.com/document/d/1UdLxazeOKFb5SA4OAw3UTPmi_JXh6fUzqWpwDxYHxJg/edit?tab=t.0)
+- [Course Website](https://amichuda.github.io/econ031/)
+
 ## AEM6850: Empirical Methods for Applied Economists
 
 The course introduces students to basic practices and tools that will enhance your ability to conduct empirical research and analysis in microeconomics in a data-rich world. By the end of the course, students will be proficient in various data management, visualization and quantitative techniques necessary to efficiently conduct independent research. The course format is “hands-on” and students will conduct most of their work on their personal computers using python and VSCode.

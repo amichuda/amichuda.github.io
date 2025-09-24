@@ -113,8 +113,8 @@ Isaac Ahimbisibwe and Aleksandr Michuda. "Ugandan Surname Prediction Validation"
 |             |                                          |            |                    |
 | ----------- | ---------------------------------------- | ---------- | ------------------ |
 | Spring 2025 | Introduction to Econometrics             | Professor  | Swarthmore College |
-| Spring 2025 | Economics 100                            | Professor  | Swarthmore College |
-| Fall 2024   | Economics 100                            | Professor  | Swarthmore College |
+| Spring 2025 | Economics 1                            | Professor  | Swarthmore College |
+| Fall 2024   | Economics 1                            | Professor  | Swarthmore College |
 | Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
 | Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |
 | Fall 2018   | Microeconomics                           | TA         | UC Davis           |
