@@ -3870,6 +3870,12 @@
           <text variable="references"/>
         </else>
       </choose>
+      <!-- Add note field in italic bold at the end -->
+      <choose>
+        <if variable="note">
+          <text font-style="italic" font-weight="bold" variable="note"/>
+        </if>
+      </choose>
     </group>
   </macro>
   <bibliography et-al-min="7" et-al-use-first="3" hanging-indent="true">
