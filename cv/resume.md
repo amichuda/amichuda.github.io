@@ -1,4 +1,8 @@
 ---
+csl: chicago-author-date-sort-year.csl
+link-citations: true
+nocite: |
+  @*
 documentclass: article
 classoption:
   - 11pt
@@ -34,22 +38,29 @@ format:
 
 # Aleksandr Michuda
 
-|                         |                                                        |
-|-------------------------|--------------------------------------------------------|
-|**Address**: New York, NY| **Email**: [\textcolor{blue}{amichuda@gmail.com}](mailto:amichuda@gmail.com)|
-|**Github**: [\textcolor{blue}{https://github.com/amichuda}](https://github.com/amichuda) |**Personal Website**: [\textcolor{blue}{https://amichuda.github.io/}](https://amichuda.github.io/)|
+**Email**: [amichud1@swarthmore.edu](mailto:amichud1@swarthmore.edu)
+
+**Website**: [amichuda.github.io](https://amichuda.github.io)
+
+**Github**: [github.com/amichuda](https://github.com/amichuda)
+
+**Linkedin**: [www.linkedin.com/in/aleksandr-michuda](https://www.linkedin.com/in/aleksandr-michuda)
+
 
 # Summary
 
-Economist with a passion for causal inference done rigorously and in conjunction with machine learning predictions and data science techniques. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
+Economist and data scientist with over 8 years of experience designing and implementing rigorous empirical research in development, health, and labor economics. Proven record in managing data-intensive projects across fragile and low-resource settings. Deep technical fluency in Python, R, and Stata, with published work leveraging geospatial data, machine learning, and randomized trials. Demonstrated ability to lead collaborative research with international partners, train junior researchers, and build reproducible analytic systems.
+
 
 # Education
 
-|    |                                           |         |
-|----|-------------------------------------------|---------|
-|2020| PhD Agricultural and Resource Economics, UC Davis||
-|2014| B.A./M.A. Economics CUNY Hunter College| *summa cum laude*|
-|2014| B.A. Philosophy CUNY Hunter College    | *summa cum laude*|
+|      |                                               |       |
+| :-------- |:------------------------------------- | --------------------------------: |
+| 2021 | Agricultural and Resource Economics, UC Davis | PhD   |
+| 2014 |         Economics CUNY Hunter College         | BA/MA |
+| 2014 |        Philosophy CUNY Hunter College         | BA    |
+
+
 
 # Technical Skills
 
@@ -115,19 +126,6 @@ Ukrainian: Conversational
 
 # Selected Works
 
-Tennant, Elizabeth; Aleksandr Michuda, Joanna B. Upton, Andres Chamorro, Michael L. Mann, David Newhouse, Christopher B. Barrett. "Nowcasting shocks to human capital." (2024)
-
-[Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. "Land market responses to weather shocks: evidence from rural Uganda and Kenya." European Review of Agricultural Economics 50, no. 3 (2023): 954-977.](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbad005/7074081)
-
-[Michuda, Aleksandr. "Urban Labor Supply Responses to Weather Shocks for Ugandan Uber Drivers."](https://drive.google.com/file/d/1iO20c-6p1hq087MmM7LuYAY_SbHGal57/view?usp=sharing)  
-
-[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1kmSawentCvzDflencjPwHJ-3r3_tzNOV/view?usp=sharing) ***Submitted***
-
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/uploads/TGBLMM_2022.pdf)
-
-[Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic Impacts of the COVID-19 Lockdown in a Remittance‐dependent Region." American Journal of Agricultural Economics.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
-
-[Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." Stata Journal 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109)
-
-
+::: {#refs-resume}
+:::
 

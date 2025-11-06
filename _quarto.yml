@@ -40,6 +40,7 @@ filters:
 bibliography_published: bib/references_published.bib
 bibliography_working: bib/references_working.bib
 bibliography_other: bib/references_other.bib
+bibliography_resume: bib/selected_works_resume.bib
 
 
 
