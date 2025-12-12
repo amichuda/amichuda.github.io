@@ -1,5 +1,8 @@
 project:
   type: website
+  resources: 
+    - papers/zipline_demand_paper.pdf
+    - papers/SafeBoda_Earnings_Guarantee_Project.pdf
 
 website:
   back-to-top-navigation: true
