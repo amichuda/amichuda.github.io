@@ -1,0 +1,200 @@
+---
+csl: chicago-author-date-sort-year.csl
+link-citations: true
+nocite: |
+  @*
+documentclass: article
+classoption:
+  - 10pt
+format:
+  html: default
+  pdf:
+    colorlinks: false
+    include-in-header:
+      - text: |
+          \let\paragraph=\oldparagraph
+          \let\subparagraph=\oldsubparagraph
+          \RequirePackage{color,graphicx}
+          \usepackage{titlesec}	
+          \usepackage{hyperref}
+          \usepackage[margin=1in]{geometry}
+          \def\toprule{}
+          \def\bottomrule{}
+          \def\midrule{}
+          \titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+          \titlespacing{\section}{3pt}{10pt}{10pt}
+          \addtolength{\voffset}{-1.3cm}
+          \hyphenation{im-pre-se}
+          \ifx\paragraph\undefined\else
+          \let\oldparagraph\paragraph
+            \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+          \fi
+          \ifx\subparagraph\undefined\else
+            \let\oldsubparagraph\subparagraph
+            \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+          \fi
+
+---
+
+# Aleksandr Michuda
+
+
+**Email**: [amichud1@swarthmore.edu](mailto:amichud1@swarthmore.edu)
+
+**Website**: [amichuda.github.io](https://amichuda.github.io)
+
+**Github**: [github.com/amichuda](https://github.com/amichuda)
+
+**Linkedin**: [www.linkedin.com/in/aleksandr-michuda](https://www.linkedin.com/in/aleksandr-michuda)
+
+# Professional Summary
+
+My research combines data fusion and causal econometrics to study labor markets, health, and climate change adaptation in developing countries. I maintain active collaborations with industry platforms (Uber, SafeBoda, and Zipline) to develop and evaluate interventions that improve economic outcomes for households in low- and middle-income countries. My recent work consists of platform experiments in which rideshare drivers in Uganda are randomly offered earnings guarantees to study income effects, risk reduction, and flexibility. Another brings together the rideshare platform with an insurance consortium to provide drivers with index-based weather insurance for their rural families to buffer against agricultural income shocks.  I currently have a second-round revision at *Econometrica*, a recently accepted paper at *World Development*, an R&R at the *World Bank Economic Review*, and additional submissions under review. 
+
+# Appointments
+
+|           |                              |                                             |
+| :-------- |:--------------------------- | ------------------------------------------: |
+| 2024-     | Visiting Assistant Professor | Department of Economics, Swarthmore College |
+| 2021-2024 | Assistant Research Professor |                   CDSES, Cornell University |
+                                            
+
+
+# Education
+
+
+|      |                                               |       |
+| :-------- |:------------------------------------- | --------------------------------: |
+| 2021 | Agricultural and Resource Economics, UC Davis | PhD   |
+| 2014 |         Economics CUNY Hunter College         | BA/MA |
+| 2014 |        Philosophy CUNY Hunter College         | BA    |
+
+
+
+# Publications
+
+::: {#refs-published}
+:::
+
+\newpage
+
+# Working Papers
+
+::: {#refs-working}
+:::
+
+# Works in Progress
+
+Mitali Mathur, Aleksandr Michuda, Shotaro Nakamura. "Risks, Uncertainty, and Flexibility in Gig Work: Evidence via Conditional Income Guarantee Interventions in Uganda"
+
+Aleksandr Michuda. "A Machine Learning Misclassification Bias-Robust Linear Model"
+
+Aleksandr Michuda, Abhilasha Sahay, Nivedhitha Subramanian. "H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market" 
+
+Isaac Ahimbisibwe and Aleksandr Michuda. "Ugandan Surname Prediction Validation"
+
+
+# Book Chapters and Other Publications
+
+::: {#refs-other}
+:::
+
+
+\newpage
+
+# Editorships
+
+|      |                                                 |                                 |
+| ---- | ----------------------------------------------- | ------------------------------- |
+| 2023 | Special Issue Guest Editor                      | Harvard Data Science Review 5.3 |
+|      | *Reinforcing Reproducibility And Replicability* |                                 |
+
+# Peer Review
+
+*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*; *Food Policy*; *The Journal of African Economies*
+
+
+# Teaching
+
+|             |                                          |            |                    |
+| ----------- | ---------------------------------------- | ---------- | ------------------ |
+| Spring 2025 | Introduction to Econometrics             | Professor  | Swarthmore College |
+| Spring 2025 | Economics 1                            | Professor  | Swarthmore College |
+| Fall 2024   | Economics 1                            | Professor  | Swarthmore College |
+| Fall 2023   | Empirical Methods for Applied Economists | Instructor | Cornell University |
+| Summer 2019 | Undergraduate Econometrics               | Instructor | UC Davis           |
+| Fall 2018   | Microeconomics                           | TA         | UC Davis           |
+
+# Service
+
+|                       |                                        |
+| :-------------------------------- | --------------------------------------: |
+| Summer 2023 - Present | GAIN Mentor                            |
+| Fall 2022 - Present   | Mentor for STAAARS+                    |
+| Fall 2017 - Present   | BITSS Catalyst Grant                   |
+| 2017                  | Graduate Student Association President |
+
+
+# Languages and Skills
+
+English: Fluent 
+
+Russian: Fluent
+
+Ukrainian: Conversational
+
+# Technical Skills
+
+Python, R, Stata, GitHub, Bash, GAMS
+
+\newpage
+
+# Past Experience
+
+|                                |                        |                       |                                                                   |
+| ------------------------------ | ---------------------- | --------------------- | ----------------------------------------------------------------- |
+| July 2023 - August 2023        | Breakthrough Tech AI   | Faculty Lead Mentor   | Summer 2024 - Machine Learning Foundations                        |
+| April 2023 - Present           | World Bank Corporation | Short-Term Consultant | Using Data Fusion to Improve Human Capital Indicators             |
+| January 2020 - July 2022       | UC Davis               | Consultant            | MINIMOD - Optimal Nutritional Interventions across Space and Time |
+| September 2019 - December 2019 | Uber Inc.              | Data Science Intern   | Pricing and Demand                                                |
+| July 2016 - September 2019     | UC Davis               | Research Assistant    | Disease Suppressive Crop Rotations                                |
+
+# Conferences/Presentations
+
+|                  |                                                                                                            |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| CIDER-CRS 2024   | Nowcasting shocks to human capital                                                                         |
+| NEUDC 2022       | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
+| PACDEV 2022      | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
+| NEUDC 2021       | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
+| BITSS RT2 2020   | Dynamic Documents with Jupyter Notebooks                                                                   |
+| AAEA 2019        | Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production                       |
+| AAEA 2018        | Political Contributions and the Case of South African Land Reform                                          |
+| AAEA 2017        | The Economic Viability of Suppressive Crop Rotations in Organic Strawberry Production                      |
+|                  | Empirically Estimating the Impact of Weather on Agriculture                                                |
+| EEA 2014         | The Russian Mir and Agrarian Transition                                                                    |
+| CUNY's UGRC 2013 | Large Frontiers and Coercion: An Economic Perspective                                                      |
+
+
+# Scholarships and Awards
+
+\small
+
+|                         |                                                                                                                                                          |
+| :---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Fall 2024               | IDInsight, Digital Economy Research & Impact Initiative: "Uncertainty and Frictions in Gig Work: Evidence via Conditional Income Guarantee Interventions |
+| Spring 2024             |                                                                                                                        Einaudi Center Faculty Seed Grant |
+|                         |                                                                                 The Welfare Effects of UAV Healthcare Delivery on the Migration Decision |
+| Summer 2023             |                                                                                                                              Azure Cloud Computing Grant |
+|                         |                                                                 H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
+| Summer 2022             |                                                                                                                                          NSF OSP: 142678 |
+|                         |                                                                Conference on Reproducibility and Replicability in Economics and Social Sciences (CRRESS) |
+| Summer 2022             |                                                                                                                             Dyson AEP Faculty Seed Grant |
+|                         |                                                                                                  The Surname-Ethnicity Connection: A Validation Exercise |
+| Spring 2022             |                                                                                                                             Dyson AEP Faculty Seed Grant |
+|                         |                               Climate induced soil salinity impacts on agricultural productivity and livelihood diversification in the Sundarbans, India |
+| Winter 2021             |                                                                                        (CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
+| Fall 2014 - Spring 2016 |                                                                                                                                     Steindler Fellowship |
+| Spring 2017             |                                                                                                                                    Henry A. Jastro Grant |
+
+
