@@ -88,3 +88,15 @@ Economist and Data Scientist with a Ph.D. specializing in *causal econometrics*,
 - *Ph.D., Agricultural and Resource Economics* | UC Davis | 2021 
 - *BA/MA, Economics* | CUNY Hunter College | 2014 
 - *BA, Philosophy* | CUNY Hunter College | 2014 
+
+#v(8pt)
+
+// Education
+#text(weight: "bold")[SELECTED PUBLICATIONS & WORKING PAPERS]
+#line(length: 100%, stroke: 0.5pt)
+
+#bibliography("../bib/ds_references.bib",
+title : none,
+full: true,
+style: "chicago-author-date-sort-year.csl")
+
